@@ -323,7 +323,11 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-8 col-md-10 mx-auto">
-
+J'ai comme tout le monde suivie un début de formation standard jusqu'au collège.
+J'ai poursuivi dans un lycée technologique un Baccalauréat STMG auquel j'ai obtenu la mention assez bien.
+J'ai ensuite décidé de me lancer dans un DUT informatique auquel je n'est pas pu assisté plus de 3mois pour des raison médical.
+J'ai donc décidé de me réorienter vers un BTS Sio dans l'idée de faire du dévloppement.
+En commançant cette année de BTS mon idée a completement changée , le réseau me plaît beaucoup plus.
 
         </div>
       </div>
